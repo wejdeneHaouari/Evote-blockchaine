@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec432f84-a0fa-4333-8bf7-41db7d0cde67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/election.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/box-img-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box-img-sm.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/contracts/Election.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Election.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/contracts/Migrations.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Migrations.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/Election.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Election.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/boxer.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/french-bulldog.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/golden-retriever.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/scottish-terrier.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/election.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/election.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +60,7 @@
       <updated>1581767855989</updated>
       <workItem from="1581767857238" duration="1666000" />
       <workItem from="1581775171469" duration="419000" />
-      <workItem from="1581775611856" duration="5502000" />
+      <workItem from="1581775611856" duration="7811000" />
     </task>
     <servers />
   </component>
